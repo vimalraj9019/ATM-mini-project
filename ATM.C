@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include<stdio.h>
+#include<string.h>
 #define MAX_TRANSACTIONS 100
 struct user
 {
